@@ -9,8 +9,5 @@ Hi there 👋
 
 
 🛠Languages and Tools:
-- ![image](https://user-images.githubusercontent.com/57678826/142265605-46142728-7b6e-4d18-95ad-57a73d694a9e.png) ![image](https://user-images.githubusercontent.com/57678826/142265660-b717324e-61a3-4fd0-836e-b82f227ebab3.png)
 
-- ![image](https://user-images.githubusercontent.com/57678826/142265764-684f8040-8510-41f9-b970-3ecee4cb5a3e.png) ![image](https://user-images.githubusercontent.com/57678826/142265837-342fa7c8-c661-4a6d-a3b3-17cbf2550679.png)
-
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/selenium-test-automation.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/azure-1.png"/> <img src="https://img.icons8.com/fluency/48/000000/android-studio--v3.png"/> <img src="https://img.icons8.com/color/48/000000/android-os.png"/> <img src="https://img.icons8.com/fluency/48/000000/github.png"/>
